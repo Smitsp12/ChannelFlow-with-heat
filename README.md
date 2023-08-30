@@ -1,4 +1,4 @@
-# ChannelFlow-with-heat
+# Convective heat transfer in channel flow
 Problem description: To get velocity and temperature field within the channel flow. 
 
 Here, the temperature boundary condition is given at walls of the domain. To get the temperature field, generalized heat equation is discritized, including viscous dissipation, advection, diffusive and pressure terms. The steps followed are as follows:
